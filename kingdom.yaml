@@ -1,0 +1,8 @@
+name: tapasme
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The inner fire of self-discipline as a received gift, where the self is the offering and external sacrifice becomes inner transformation.
+dependsOn: [youspeak, me, qorbme, hotepme]
